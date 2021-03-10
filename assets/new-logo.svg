@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1011px" height="325px" viewBox="0 0 1011 325" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
+    <defs>
+        <linearGradient x1="82.1160965%" y1="13.79979%" x2="14.2568501%" y2="85.8050702%" id="linearGradient-1">
+            <stop stop-color="#C442FF" offset="0%"></stop>
+            <stop stop-color="#705AFC" offset="51.2583893%"></stop>
+            <stop stop-color="#50BADD" offset="93.9294371%"></stop>
+            <stop stop-color="#40C9D4" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="108.5" cy="108.5" r="108.5"></circle>
+        <filter x="-38.7%" y="-37.8%" width="177.4%" height="177.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="4" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="34" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.414288949   0 0 0 0 0.414288949   0 0 0 0 0.414288949  0 0 0 0.868389423 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="lucidia" fill-rule="nonzero" font-family="Graphik-Bold, Graphik" font-size="208" font-weight="bold" fill="#1F1F1F">
+            <tspan x="309" y="229">lucidia</tspan>
+        </text>
+        <g id="Group" transform="translate(54.000000, 52.000000)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <circle stroke="url(#linearGradient-1)" stroke-width="30" stroke-linejoin="square" cx="108.5" cy="108.5" r="93.5"></circle>
+            </g>
+            <circle id="Oval" stroke="#7265FF" stroke-width="20" fill="#584AFA" cx="108.5" cy="107.5" r="48.5"></circle>
+            <circle id="Oval" stroke="#584AFA" stroke-width="20" cx="108.5" cy="107.5" r="28.5"></circle>
+            <circle id="Oval" fill="#4635FA" cx="108" cy="108" r="20"></circle>
+            <path d="M70.1941719,63.3059724 C70.0657617,64.6851881 70,66.0843159 70,67.5 C70,90.4198171 87.2370371,109 108.5,109 C129.762963,109 147,90.4198171 147,67.5 C147,66.0784754 146.933695,64.673644 146.804236,63.2889033" id="Path" fill-opacity="0.206566871" fill="#FFFFFF"></path>
+            <path d="M146.812343,63.2900324 C136.548442,54.3876122 123.153393,49 108.5,49 C93.8281443,49 80.4178057,54.4011969 70.1488762,63.3236989" id="Path" fill-opacity="0.2" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
