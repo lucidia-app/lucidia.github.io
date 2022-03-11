@@ -1,0 +1,39 @@
+body {
+	background: #d9a7c7;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+	font-family: 'Graphik-semibold';
+	src: local('Graphik-semibold'), url('../src/assets/fonts/Graphik-Semibold.otf') format('truetype');
+}
+@font-face {
+	font-family: 'Graphik-medium';
+	src: local('Graphik-medium'), url('../src/assets/fonts/Graphik-Medium.otf') format('truetype');
+}
+@font-face {
+	font-family: 'Graphik-regular';
+	src: local('Graphik-regular'), url('../src/assets/fonts/Graphik-Regular.otf') format('truetype');
+}
+@font-face {
+	font-family: 'Sharp-grotesk-medium';
+	src: local('Sharp-grotesk-medium'), url('../src/assets/fonts/SharpGroteskMedium20.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sharp-sans-medium';
+	src: local('Sharp-sans-medium'), url('../src/assets/fonts/SharpSansNo1-Medium.ttf') format('truetype');
+}
