@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lucidia.github.io/static/css/main.d15ca783.css",
+    "main.js": "/lucidia.github.io/static/js/main.f71e769a.js",
+    "static/js/787.3531bf2f.chunk.js": "/lucidia.github.io/static/js/787.3531bf2f.chunk.js",
+    "static/media/logo@3x.png": "/lucidia.github.io/static/media/logo@3x.7ef786ffb7a4ac49024d.png",
+    "static/media/homescreen.webp": "/lucidia.github.io/static/media/homescreen.b27068797e9ded79cd1e.webp",
+    "static/media/logo@2x.png": "/lucidia.github.io/static/media/logo@2x.fef555cde0a3e082c5ed.png",
+    "static/media/Graphik-Semibold.otf": "/lucidia.github.io/static/media/Graphik-Semibold.7ef1e78abcb43e957eec.otf",
+    "static/media/Graphik-Medium.otf": "/lucidia.github.io/static/media/Graphik-Medium.f58d53eb72d7239d4ca8.otf",
+    "static/media/SharpGroteskMedium20.ttf": "/lucidia.github.io/static/media/SharpGroteskMedium20.890d6aa0f77cf090d799.ttf",
+    "static/media/Graphik-Regular.otf": "/lucidia.github.io/static/media/Graphik-Regular.329746577f94a4f1785e.otf",
+    "static/media/SharpSansNo1-Medium.ttf": "/lucidia.github.io/static/media/SharpSansNo1-Medium.0ebf52d4fcfd0cacd3b0.ttf",
+    "static/media/logo@1x.png": "/lucidia.github.io/static/media/logo@1x.d6c188c3e24a067d8119.png",
+    "static/media/apple-store.svg": "/lucidia.github.io/static/media/apple-store.5b3278a5243a8ac6463688b5133645ab.svg",
+    "static/media/logo.svg": "/lucidia.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lucidia.github.io/index.html",
+    "main.d15ca783.css.map": "/lucidia.github.io/static/css/main.d15ca783.css.map",
+    "main.f71e769a.js.map": "/lucidia.github.io/static/js/main.f71e769a.js.map",
+    "787.3531bf2f.chunk.js.map": "/lucidia.github.io/static/js/787.3531bf2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15ca783.css",
+    "static/js/main.f71e769a.js"
+  ]
+}
